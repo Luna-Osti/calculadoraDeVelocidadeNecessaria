@@ -1,5 +1,5 @@
 # calculadoraDeVelocidadeNecessaria
-Aplicação em java para calcular a velocidade necessária para percorrer uma determinada parte de um trajeto, baseada no exercício 11 do capítulo 2 do livro
+Aplicação em java para calcular a velocidade necessária para percorrer uma determinada parte de um trajeto, baseada no exercício 11 do capítulo 2 do livro de física
 
 # O exercício:
 O excercício descreve uma pessoa que saí de casa a um determinado horário, e precisa chegar até uma reunião em um horário determindado. Sabendo que a pessoa passa por duas distâncias diferentes, cada uma a uma certa velocidade, o exercício quer saber qual seria a menor velocidade necessária para que essa pessoa possa chegar na reunião à tempo.
